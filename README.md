@@ -23,7 +23,7 @@ Here’s a snapshot of some projects I’ve built and shared:
 
 | Project | Description | Tools / Skills |
 |----------|--------------|----------------|
-| **DCF Valuation Model** | A complete valuation model of Infosys Ltd., estimating intrinsic value using Free Cash Flow projections and terminal value | Excel, Finance Theory, Valuation |
+| **DCF Valuation Model** | A complete valuation model of Infosys Ltd., estimating intrinsic value using FCF projections and terminal value | Excel, Forecasting, DCF |
 | **Forecasting Revenue using Python** | Predictive modeling of company performance with time-series forecasting and visualization. | Python (Pandas, Matplotlib) |
 
 
