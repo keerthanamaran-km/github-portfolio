@@ -2,8 +2,7 @@
 <div align="center">
 
 # 🪶 Keerthana Maran  
-### Business and Finance Graduate | Warwick Business School  
-### Financial Modeling & Valuation | Aspiring Equity Research & Corporate Finance Analyst  
+### Business and Finance Graduate | Warwick Business School    
 
 </div>
 
@@ -14,7 +13,7 @@
 I am a recent **MSc Business and Finance** graduate from **Warwick Business School**, with a strong interest in **equity research, company valuation, and corporate finance**.  
 My academic and project-based experience has helped me build skills in **financial modeling, DCF valuation, and financial statement analysis**, supported by a solid foundation in **Excel and Python for financial applications**.  
 
-I’m currently developing **independent projects** in valuation modeling, forecasting, and data visualization — integrating finance and coding to deepen analytical insight and technical precision.  
+I’m currently developing **independent projects** in valuation modeling, forecasting, and data visualization - integrating finance and coding to deepen analytical insight and effective visualisation.  
 
 ---
 
@@ -24,10 +23,9 @@ Here’s a snapshot of some projects I’ve built and shared:
 
 | Project | Description | Tools / Skills |
 |----------|--------------|----------------|
-| **DCF Valuation Model** | A full valuation model estimating intrinsic value using Free Cash Flow projections and terminal value. | Excel, Finance Theory, Valuation |
+| **DCF Valuation Model** | A complete valuation model of Infosys Ltd., estimating intrinsic value using Free Cash Flow projections and terminal value | Excel, Finance Theory, Valuation |
 | **Forecasting Revenue using Python** | Predictive modeling of company performance with time-series forecasting and visualization. | Python (Pandas, Matplotlib) |
-| **Financial Ratios Dashboard** | Interactive Power BI dashboard analyzing profitability, leverage, and liquidity metrics. | Power BI, Excel, Visualization |
-| **Comparative Company Analysis** | Peer benchmarking using data from Bloomberg and Capital IQ, structured for equity research context. | Bloomberg, Capital IQ |
+
 
 > *(I’ll continue adding more projects as they go live — stay tuned!)*  
 
@@ -42,31 +40,22 @@ Here’s a snapshot of some projects I’ve built and shared:
 - Forecasting & Budgeting  
 
 **Technical Skills**  
-- **Python:** NumPy, Pandas, Matplotlib  
-- **Visualization:** Power BI, Excel Charts  
-- **Finance Tools:** Bloomberg Terminal, Capital IQ  
-
+- **Python:** NumPy, Pandas, Matplotlib, Plotly
+- **Visualization:** Power BI, Excel Charts, Google Workspace
+- **Finance Tools:** Bloomberg Terminal, Capital IQ
 ---
 
 ## 🏆 Achievements & Certifications  
+ 
+- 📈 Certified in **Financial Modelling (Wall Street Prep, 2025)**
+- 📈 Certified in **DCF Modelling (Wall Street Prep, 2025)**
+- 📈 Certified in **Introduction to Python for Finance (DataCamp, 2025)**
+- 📈 Certified in **Bloomberg Market Concepts (Bloomberg Education, 2025)**
+- 📈 Certified in **Behavioural and Personal Finance (NPTEL, 2023)**
+- 📈 Certified in **Indian Economy: Some Contemporary Perspectives (NPTEL, 2022)**
+- 📈 Certified in **Tax Planning and Return Filing of Income Tax and GST (PSG College of Arts and Science, 2022)**  
 
-- 🎓 MSc in Business and Finance — *Warwick Business School*  
-- 📈 Certified in **Bloomberg Market Concepts (BMC)**  
-- 💡 Coursework in **Valuation, Corporate Financial Strategy, and Investments**  
 
----
-
-## 🖼️ Project Gallery  
-
-<div align="center">
-  
-| 📊 | 🧮 | 💻 |
-|:--:|:--:|:--:|
-| ![Valuation Model Banner](https://img.shields.io/badge/DCF_Model-Finance-blue?style=flat-square&logo=github) | ![Python Finance Banner](https://img.shields.io/badge/Python_Visualization-Data_Science-darkblue?style=flat-square&logo=python) | ![Power BI Banner](https://img.shields.io/badge/PowerBI-Dashboard-gold?style=flat-square&logo=powerbi) |
-
-</div>
-
-Each project merges **quantitative finance** with **data storytelling**, illustrating how financial insight can be deepened through analytics and visualization.  
 
 ---
 
@@ -77,14 +66,6 @@ Each project merges **quantitative finance** with **data storytelling**, illustr
 
 ---
 
-<div align="center">
-
-_“Data-driven finance with a human touch.”_  
-🟦 *Minimalist. Analytical. Insightful.*  
-
-</div>
-
----
 
 <!-- Badges Section -->
 <div align="center">
