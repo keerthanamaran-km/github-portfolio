@@ -24,7 +24,6 @@ Here’s a snapshot of some projects I’ve built and shared:
 | Project | Description | Tools / Skills |
 |----------|--------------|----------------|
 | **DCF Valuation Model** | A complete valuation model of Infosys Ltd., estimating intrinsic value using FCF projections and terminal value | Excel, Forecasting, DCF |
-| **Forecasting Revenue using Python** | Predictive modeling of company performance with time-series forecasting and visualization. | Python (Pandas, Matplotlib) |
 
 
 > *(I’ll continue adding more projects as they go live — stay tuned!)*  
@@ -54,6 +53,25 @@ Here’s a snapshot of some projects I’ve built and shared:
 - 📈 Certified in **Behavioural and Personal Finance (NPTEL, 2023)**
 - 📈 Certified in **Indian Economy: Some Contemporary Perspectives (NPTEL, 2022)**
 - 📈 Certified in **Tax Planning and Return Filing of Income Tax and GST (PSG College of Arts and Science, 2022)**  
+
+---
+
+## 📖 Publications  
+
+- 👩‍💻 **Women Entrepreneurship**                                                                                                             	        
+- Presented at a National Conference at KPR College of Arts and Science, Coimbatore, India
+- Researched various women entrepreneurs with the help of Surveys submitted by women entrepreneurs from India and the challenges they faced – access to funding, gender stereotypes, societal expectations, and lack of work-life balance
+- Published in “Proceedings – A Two-Day National Conference on Role of Entrepreneurship in the Changing Economic Environment” – Pages 657-665; ISBN: 978-81-967053-7-4 / 2023 – 24 / Department of Commerce / KPRCAS, Coimbatore
+---
+- 💰 **Unified Payment Interface (UPI) Enabling the Great Indian Leapfrog Story**                                    
+- Presented at a National Seminar at PSG College of Arts and Science, Coimbatore, India
+- Researched UPI by conducting surveys using Google Forms throughout college to find its impact on the lower sections of the economy and Indian households as a significant contribution towards the digital Indian economy
+- Gave a Problem-Solution statement on how visually impaired users can transact by UPI using a unique Voice Recognition System.
+- Published in “Impact of Changing Banking Practices on the Indian Economy” – Pages 271-276 ISBN: 978-93-94428-56-0
+---
+- 🏦 **The Role of RBI in Attracting Deposits from NRI & High Net Worth Individuals**
+- Presented at “International Conference on Currency and Banking – The Trends and the Challenges” at St. Joseph’s College of Arts and Science, Coimbatore, India
+- Researched the role of NRIs and HNWIs with the help of interviews in bolstering the country’s financial stability using data on Foreign Currency Accounts from various banks in India  
 
 
 
